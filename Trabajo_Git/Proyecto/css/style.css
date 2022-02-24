@@ -1,0 +1,30 @@
+
+body {
+	background-image: url("fondo.png");
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+h1{
+	color:#A777FD;
+	font-size: 53px;
+	font-family: Bubblegum;
+	text-align: center;
+}
+h2{
+	color:#F68ED1;
+	font-size: 27px;
+	font-family: Anything Better;
+	text-align: center;
+}
+h6{
+	color:#F68ED1;
+	font-size: 35px;
+	font-family: Anything Better;
+	text-align: center;
+}
+h3{
+	color:#D596FC;
+	font-size: 35px;
+	font-family: Ayalisse;
+}
